@@ -1,8 +1,0 @@
-LICENSE
-pyproject.toml
-src/random_useragent_GhostOverFlow256/__init__.py
-src/random_useragent_GhostOverFlow256/main.py
-src/random_useragent_GhostOverFlow256.egg-info/PKG-INFO
-src/random_useragent_GhostOverFlow256.egg-info/SOURCES.txt
-src/random_useragent_GhostOverFlow256.egg-info/dependency_links.txt
-src/random_useragent_GhostOverFlow256.egg-info/top_level.txt

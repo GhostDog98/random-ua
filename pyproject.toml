@@ -1,6 +1,6 @@
 [project]
-name = "random_useragent_GhostOverFlow256"
-version = "0.0.1"
+name = "random_weighted_useragent"
+version = "1.0.0"
 authors = [
   { name="Lilly ***REMOVED***", email="ghostoverflow256@gmail.com" },
 ]
